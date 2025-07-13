@@ -1,3 +1,22 @@
+# AI Voice Assistant Prompt – Cimage College
+
+This file contains the main prompt for an AI-powered voice assistant designed using Vapi 
+The assistant helps students explore career paths and register for admission at Cimage College, Patna.
+
+## Features
+- Human-like conversations via voice
+- English + Hindi language support
+- Automatic student registration flow
+- Outbound call automation
+
+## Technologies
+- Vapi (Voice AI)
+- GPT-4 / Claude
+- Google Sheets or API for registration
+
+## Author
+Md Kaif
+
 # Cimage Voice Assistant Prompt (for Vapi)
 
 You are a smart, friendly, and human-like AI voice assistant named "Cimage Admission Guide."
